@@ -60,8 +60,8 @@ This project uses the **Elastic Stack (Elasticsearch, Logstash, Kibana)** for ce
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Cipherkrish69x/SOC-Analyst-Project.git
-   cd SOC-Analyst-Project
+   git clone https://github.com/Acelake123/SOC-Analyst-Project-main.git
+   cd SOC-Analyst-Project-main
 
 2. **Set up Elastic Stack**:
 
@@ -208,5 +208,3 @@ The **SOC Analyst Project** equips learners and professionals with practical ski
 ## Contact
 
 🔗 LinkedIn: [AnuragAditya](https://www.linkedin.com/in/anurag-aditya-soc)
-
-```
