@@ -41,7 +41,7 @@ This project uses the **Elastic Stack (Elasticsearch, Logstash, Kibana)** for ce
 - Logs generated from simulated attacks are forwarded to **Elasticsearch** via configured pipelines.
 - **Kibana dashboards are manually built** from these logs after the attack simulations.
 - These dashboards help in visualizing attack patterns, detection alerts, and overall security posture.
-- ⚠️ **Note**: Dashboards are not pre-exported in this repository. Users are encouraged to manually create visualizations from the logged events to gain practical experience.
+- ⚠️ **Note**: Dashboards are not pre-exported in this repository.
 
 - **Reporting & Documentation**  
   - Complete project documentation, including installation instructions, setup guides, and a detailed report on attack simulations and testing results.
