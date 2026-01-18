@@ -2,7 +2,7 @@ title: Detect Process Injection Attempts
 id: 3b9786cc-e9b1-4b57-b6be-1a6e9e95ea1e
 status: experimental
 description: Detects possible process injection attempts based on suspicious activity.
-author: Alla Krishna Vamsi Reddy (cipherkrish69x)
+author: Anurag Aditya (Acelake123)
 logsource:
   category: process_creation
 detection:

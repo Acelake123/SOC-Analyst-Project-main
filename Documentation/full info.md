@@ -1,8 +1,8 @@
 # SOC Analyst Project - Complete Documentation
 
-**Author:** Alla Krishna Vamsi Reddy (cipherkrish69x)
-**Email:** [krishnavamsi2032@gmail.com](mailto:krishnavamsi2032@gmail.com)
-**LinkedIn:** [linkedin.com/in/krishnavamsireddy](https://www.linkedin.com/in/krishnavamsireddy)
+**Author:** Anurag Aditya (Acelake123)
+**Email:** [anuragaditya1281@gmail.com](mailto:anuragaditya1281@gmail.com)
+**LinkedIn:** [linkedin.com/in/anurag-aditya-soc](https://www.linkedin.com/in/anurag-aditya-soc)
 
 ---
 
@@ -104,7 +104,7 @@ detection:
   condition: selection
 ```
 
-### 5.2 Attack Simulations (Red Team Mindset)
+### 5.2 Attack Simulations
 
 **Brute Force Attack**: Simulated using `hydra`, targets SSH or RDP with dictionary-based credentials. Helps test if SIEM can detect repeated failed logins.
 
@@ -196,9 +196,9 @@ Whether you're an aspiring blue teamer or prepping for interviews, this project 
 
 ## 10. Author Details
 
-**Name:** Alla Krishna Vamsi Reddy (cipherkrish69x)
-**LinkedIn:** [linkedin.com/in/krishnavamsireddy](https://www.linkedin.com/in/krishnavamsireddy)
-**Email:** [krishnavamsi2032@gmail.com](mailto:krishnavamsi2032@gmail.com)
+**Name:** Anurag Aditya (Acelake123)
+**LinkedIn:** [linkedin.com/in/anurag-aditya-soc](https://www.linkedin.com/in/anurag-aditya-soc)
+**Email:** [anuragaditya1281@gmail.com](mailto:anuragaditya1281@gmail.com)
 
 ---
 

@@ -39,7 +39,7 @@ SOC-Analyst-Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SOC-Analyst-Project.git
+   git clone https://github.com/Acelake123/SOC-Analyst-Project-main.git
    cd SOC-Analyst-Project
 
 Set up Elastic Stack according to the configuration provided in SIEM-Config.

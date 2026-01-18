@@ -2,7 +2,7 @@ title: Detect Brute Force Attempts
 id: d4049cb1-b5de-4e44-91db-6b9f5b5db1cf
 status: experimental
 description: Detects brute force attempts based on failed login events.
-author: Alla Krishna Vamsi Reddy (cipherkrish69x)
+author: Anurag Aditya (Acelake123)
 logsource:
   category: authentication
 detection:
