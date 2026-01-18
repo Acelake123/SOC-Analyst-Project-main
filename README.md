@@ -1,5 +1,18 @@
-# SOC Analyst Project | Threat Detection, Simulation, Automation & SIEM Integration by Anurag Aditya
+# 🛡️ SOC Analyst Project
+### Threat Detection, Simulation, Automation & SIEM Integration
 
+<div align="center">
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Elastic Stack](https://img.shields.io/badge/SIEM-Elastic_Stack-005571?logo=elastic)](https://www.elastic.co/)
+[![Sigma Rules](https://img.shields.io/badge/Detection-Sigma_Rules-orange)](https://github.com/SigmaHQ/sigma)
+[![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE_ATT%26CK-red)](https://attack.mitre.org/)
+
+**Built by [Anurag Aditya](https://www.linkedin.com/in/anurag-aditya-soc)**
+
+</div>
+
+---
 This project demonstrates a **comprehensive Security Operations Center (SOC)** setup designed to enable **real-time threat detection**, automated responses, and seamless **SIEM (Security Information and Event Management)** integration. The project includes **Sigma detection rules**, attack simulations, and a variety of tools for automating security workflows, providing hands-on experience with industry-standard SOC practices.
 
 ---
@@ -14,10 +27,16 @@ The **SOC Analyst Project** integrates multiple components to monitor, detect, a
 - **SIEM Integration**: Configuration and use of **Elastic Stack** (Elasticsearch, Kibana) to collect, analyze, and visualize data in real time.
 - **Comprehensive Documentation**: Full documentation explaining the project structure, setup, and execution.
 
----
 
-## Project by:
-**Anurag Aditya**
+### 🔑 What Makes This Project Unique?
+
+```mermaid
+graph LR
+    A[Attack Simulations] --> B[Sigma Rules]
+    B --> C[SIEM Detection]
+    C --> D[Automated Response]
+    D --> E[Kibana Visualization]
+```
 
 ---
 
@@ -33,6 +52,28 @@ The **SOC Analyst Project** integrates multiple components to monitor, detect, a
 
 - **Automated Response**  
   - Implement automation scripts for blocking malicious IP addresses or triggering alerts upon attack detection.
+
+## 🏗️ Architecture
+
+```
+┌─────────────────┐
+│ Attack Sources  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐      ┌──────────────┐
+│  Sigma Rules    │─────▶│ Elastic SIEM │
+│  Detection      │      │  (ELK Stack) │
+└─────────────────┘      └──────┬───────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │ Automated Response    │
+                    │ • IP Blocking         │
+                    │ • Alerting            │
+                    │ • Incident Logging    │
+                    └───────────────────────┘
+```
 
 ## SIEM Integration
 
@@ -205,6 +246,24 @@ The **SOC Analyst Project** equips learners and professionals with practical ski
 
 ---
 
-## Contact
+## 📞 Contact
 
-🔗 LinkedIn: [AnuragAditya](https://www.linkedin.com/in/anurag-aditya-soc)
+<div align="center">
+
+### **Anurag Aditya**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-aditya-soc)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Acelake123)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:adityaanurag424@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star this repository if you found it helpful!
+
+**Built with 💙 for the cybersecurity community**
+
+</div>
